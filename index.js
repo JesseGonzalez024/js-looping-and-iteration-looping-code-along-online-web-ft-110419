@@ -11,3 +11,5 @@ function writeCards(names) {
   }
   return array;
 }
+
+function countdown()
