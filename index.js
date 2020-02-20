@@ -13,5 +13,7 @@ function writeCards(names) {
 }
 
 function countdown(number) {
-  for (let = i; )
+  while (number > 0) {
+  
+  }
 }
