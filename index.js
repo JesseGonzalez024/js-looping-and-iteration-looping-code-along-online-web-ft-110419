@@ -12,4 +12,6 @@ function writeCards(names) {
   return array;
 }
 
-function countdown()
+function countdown(number) {
+  for (let = i; )
+}
